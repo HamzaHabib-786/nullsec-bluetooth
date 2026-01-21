@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NullSec Bluetooth Dark Theme Colors -->
+    
+    <!-- Primary Colors - Bluetooth Blue -->
+    <color name="primary">#FF0078FF</color>
+    <color name="primary_variant">#FF0060CC</color>
+    <color name="primary_dark">#FF004488</color>
+    
+    <!-- Secondary / Accent -->
+    <color name="secondary">#FF00CCFF</color>
+    <color name="secondary_variant">#FF00AADD</color>
+    
+    <!-- Background Colors -->
+    <color name="background_dark">#FF0A0A0F</color>
+    <color name="surface_dark">#FF121218</color>
+    <color name="surface_elevated">#FF1A1A22</color>
+    <color name="card_background">#FF16161E</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB0B0B8</color>
+    <color name="text_disabled">#FF606068</color>
+    
+    <!-- Signal Strength Colors -->
+    <color name="signal_excellent">#FF00FF88</color>
+    <color name="signal_good">#FF88FF00</color>
+    <color name="signal_fair">#FFFFCC00</color>
+    <color name="signal_weak">#FFFF8800</color>
+    <color name="signal_very_weak">#FFFF0044</color>
+    
+    <!-- Device Type Colors -->
+    <color name="device_phone">#FF00AAFF</color>
+    <color name="device_computer">#FF8844FF</color>
+    <color name="device_audio">#FFFF4488</color>
+    <color name="device_wearable">#FF00FFAA</color>
+    <color name="device_iot">#FFFFAA00</color>
+    <color name="device_unknown">#FF888888</color>
+    
+    <!-- Bluetooth Classic vs BLE -->
+    <color name="bluetooth_classic">#FFFF8800</color>
+    <color name="bluetooth_le">#FF00AAFF</color>
+    
+    <!-- Premium -->
+    <color name="premium_gold">#FFFFD700</color>
+    
+    <!-- UI Elements -->
+    <color name="divider">#FF2A2A32</color>
+    <color name="ripple">#400078FF</color>
+    
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+</resources>
